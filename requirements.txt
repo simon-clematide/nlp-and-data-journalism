@@ -1,8 +1,9 @@
 requests
 spacy
 spacy-lookups-data
-smartopen
+smart-open
 jsonlines
 jupyter
 fasttext
 nltk
+lxml
