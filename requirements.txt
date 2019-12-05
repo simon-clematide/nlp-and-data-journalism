@@ -6,7 +6,8 @@ spacy-lookups-data
 smart-open
 jsonlines
 jupyter
-fasttext
+# we need the newest version for get_nearest_neighbors
+git+git://github.com/facebookresearch/fastText.git#egg=fasttext
 nltk
 lxml
 langid
