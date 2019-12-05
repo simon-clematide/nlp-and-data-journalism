@@ -1,4 +1,6 @@
 requests
+sklearn
+pyLDAvis
 spacy
 spacy-lookups-data
 smart-open
@@ -7,3 +9,4 @@ jupyter
 fasttext
 nltk
 lxml
+langid
